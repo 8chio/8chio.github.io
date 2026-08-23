@@ -11,6 +11,7 @@ tags:
 - Tailscale
 - AppleScript
 - Swift
+comments: true
 title: MacBook 잠금해제 자동화 v2 --- 잠금 상태를 확인하고 안전하게
   토글하기
 ---

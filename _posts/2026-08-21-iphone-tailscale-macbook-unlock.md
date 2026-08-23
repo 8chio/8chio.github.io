@@ -3,6 +3,7 @@ title: "iPhone 단축어와 Tailscale로 클램쉘 MacBook 잠금 해제하기"
 date: 2026-08-21 17:40:00 +0900
 categories: [macOS, Automation]
 tags: [macOS, iPhone, Shortcuts, SSH, Tailscale, AppleScript]
+comments: true
 image:
   path: /assets/img/posts/macbook-unlock-tailscale.png
   alt: iPhone 단축어와 Tailscale을 이용한 MacBook 잠금 해제 구성
