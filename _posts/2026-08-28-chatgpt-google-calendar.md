@@ -40,19 +40,44 @@ Calendar 앱에서 직접 일정을 등록하는 것도 어렵지는 않지만, 
 
 ## 1. ChatGPT와 Google Calendar 연결하기
 
-먼저 ChatGPT 설정에서 Google Calendar를 연결했습니다.
+먼저 ChatGPT에서 Google Calendar를 연결했습니다.
+
+처음 연결할 때는 설정 메뉴의 위치가 조금 헷갈릴 수 있어서, 실제로
+이동했던 순서를 정리하면 다음과 같습니다.
+
+> **프로필 메뉴 → 설정 → 플러그인 → Google Calendar**
+
+### 1-1. 프로필 메뉴에서 설정 열기
+
+ChatGPT 화면 왼쪽 아래의 **프로필 영역**을 선택한 뒤 **설정**을
+눌렀습니다.
+
+![ChatGPT 설정 메뉴
+열기](/assets/img/posts/chatgpt-google-calendar/chatgpt-open-settings.png)
+*왼쪽 아래 프로필 메뉴를 열고 `설정`을 선택했습니다.*
+
+### 1-2. 플러그인에서 Google Calendar 찾기
+
+설정 화면이 열리면 왼쪽 사이드바에서 **플러그인**을 선택했습니다.
+
+플러그인 화면에서 **Google Calendar**를 찾은 뒤 연결할 Google 계정을
+추가했습니다.
+
+![ChatGPT Google Calendar 연결
+화면](/assets/img/posts/chatgpt-google-calendar/chatgpt-calendar-connect.png)
+*설정 → 플러그인에서 Google Calendar를 연결한 모습*
+
+연결 과정에서는 Google 계정 로그인과 Calendar 접근 권한 승인이
+필요했습니다.
 
 저는 일정 용도에 따라 Google 계정을 나누어 사용하고 있어서 두 개의
 계정을 연결했습니다.
 
-![ChatGPT Google Calendar 연결
-화면](/assets/img/posts/chatgpt-google-calendar/chatgpt-calendar-connect.png)
-*ChatGPT 설정에서 Google Calendar 계정을 연결한 모습*
+연결이 완료되면 이제 ChatGPT에서 실제 Google Calendar의 일정을 조회할 수
+있습니다.
 
-연결 과정에서는 Google 계정 로그인과 Calendar 접근 권한 승인이
-필요합니다.
-
-연결이 완료되면 ChatGPT에서 실제 Calendar의 일정을 조회할 수 있습니다.
+> **연결 경로 요약**\
+> 프로필 메뉴 → 설정 → 플러그인 → Google Calendar → 계정 연결
 
 ------------------------------------------------------------------------
 
