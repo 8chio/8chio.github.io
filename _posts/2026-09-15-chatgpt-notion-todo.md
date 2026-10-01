@@ -313,7 +313,7 @@ ChatGPT가 데이터베이스 구조를 알고 있더라도 요청할 때 필요
 - `없음`, `매일`, `평일`, `주말` 반복 구분
 
 
-[☑️ Notion To-do 템플릿 복제하기](https://app.notion.com/p/e2be9322e9804bb4a94d1dca2a8d16c0?v=01d509d4b8454992a247e60d49287cb3&source=copy_link)
+[☑️ Notion To-do 템플릿 복제하기](https://workable-laborer-999.notion.site/e2be9322e9804bb4a94d1dca2a8d16c0?v=01d509d4b8454992a247e60d49287cb3&source=copy_link)
 
 링크를 연 뒤 오른쪽 위의 **복제**를 선택하면 자신의 Notion 워크스페이스로 가져갈 수 있습니다.
 
