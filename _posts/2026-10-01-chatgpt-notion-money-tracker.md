@@ -44,9 +44,10 @@ ChatGPT와 연결하는 과정은 다음 편에서 이어서 다루겠습니다.
 템플릿은 자신의 Notion 워크스페이스로 복제해서 사용하는 형태입니다. 복제한 가계부에 사용할 계좌와 카테고리를 설정하면 됩니다.
 
 <!-- TODO: 공유용 템플릿의 전체 화면 캡처. 아래 이미지와 캡션은 파일을 추가한 뒤 주석 밖으로 이동
--->
 ![Notion Money Tracker 공유용 템플릿 전체 화면](/assets/img/posts/chatgpt-notion-money-tracker/money-tracker-overview.png)
 *개인 가계부와 분리해서 만든 공유용 Money Tracker 템플릿입니다.*
+-->
+
 ---
 
 ## 3. 세 데이터베이스의 역할
@@ -94,9 +95,10 @@ Money Flow에 거래 기록
 복제가 끝나면 자신의 워크스페이스에 만들어진 Money Tracker를 열고, Accounts DB, Category DB, Money Flow가 함께 있는지 확인합니다. 이후 설정과 기록은 이 복제본에서 진행하면 됩니다.
 
 <!-- TODO: 공개 링크를 다른 계정에서 열어 복제 가능한지 확인하고, 세 DB가 함께 복제되는지 점검. 복제 화면 캡처 후 아래 주석 해제
--->
 ![Money Tracker 템플릿 복제 화면](/assets/img/posts/chatgpt-notion-money-tracker/money-tracker-duplicate.png)
 *공개 템플릿을 자신의 Notion 워크스페이스로 복제합니다.*
+-->
+
 
 ### 4-2. 계좌와 시작금액 입력하기
 
@@ -109,10 +111,11 @@ Money Flow에 거래 기록
 예를 들어 생활비 계좌에 500,000원이 있는 날부터 기록한다면, 500,000원을 시작금액으로 두고 이후에 발생한 거래부터 Money Flow에 기록하는 방식입니다. 시작금액 자체를 새로 들어온 수입으로 다시 적을 필요는 없습니다.
 
 <!-- TODO: 복제본에 가상의 계좌와 시작금액을 입력한 화면 캡처 후 아래 주석 해제
--->
-
 ![Accounts DB에 계좌와 시작금액 설정](/assets/img/posts/chatgpt-notion-money-tracker/accounts-setup.png)
 *가계부를 시작하기 전에 사용할 계좌와 시작금액을 설정합니다.*
+-->
+
+
 
 ### 4-3. 카테고리 확인하기
 
@@ -123,9 +126,10 @@ Money Flow에 거래 기록
 처음부터 세세하게 나누기보다는 평소 자주 사용하는 분류부터 정해두는 편이 시작하기 쉽습니다.
 
 <!-- TODO: 공유용 템플릿의 실제 기본 카테고리를 확인하고 화면 캡처 후 아래 주석 해제
--->
 ![Category DB 카테고리 구성](/assets/img/posts/chatgpt-notion-money-tracker/category-setup.png)
 *기본 카테고리를 확인하고 자신의 생활 방식에 맞게 수정합니다.*
+-->
+
 
 ### 4-4. 첫 거래 기록하기
 
@@ -178,10 +182,11 @@ Money Flow에 점심 지출을 기록하고, Accounts DB의 생활비 계좌와 
 위 예시는 기록할 내용을 설명한 것이며, 목록의 표현이 템플릿의 실제 속성명은 아닙니다. 이체는 돈이 나간 계좌와 들어온 계좌를 모두 확인하면서 기록하면 됩니다.
 
 <!-- TODO: 복제본에서 가상의 거래로 입력 예시를 검증하고 Money Flow 화면 캡처. 이체는 실제 템플릿 구조에 맞게 기록한 화면 사용
--->
-
 ![Money Flow에 기록한 가상의 거래 예시](/assets/img/posts/chatgpt-notion-money-tracker/money-flow-examples.png)
 *수입, 지출, 이체를 구분해 기록한 예시입니다.*
+-->
+
+
 
 ---
 
