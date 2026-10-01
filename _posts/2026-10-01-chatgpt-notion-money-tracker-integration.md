@@ -11,7 +11,6 @@ tags:
 - automation
 - productivity
 title: "ChatGPT로 생활 자동화하기 #4 - Notion 가계부 연동하기"
-published: "false"
 ---
 
 ## 시작하며
