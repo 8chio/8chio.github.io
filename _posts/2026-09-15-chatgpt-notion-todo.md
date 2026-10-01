@@ -11,6 +11,7 @@ tags:
 - automation
 - productivity
 title: "ChatGPT로 생활 자동화하기 #2 - Notion To-do 연동하기"
+published: false
 ---
 
 ## 시작하며
